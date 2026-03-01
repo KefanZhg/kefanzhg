@@ -1,66 +1,53 @@
-# kefanzhg personal site
+# Hi, I'm Kefan Zheng 👋
 
-Personal website for GitHub Pages.
+Application Engineer focused on PCIe validation, embedded systems, and robotics-oriented AI development.
 
-## Files
+## About Me
 
-- `index.html` — main page content
-- `styles.css` — page styles
+- Application Engineer at **Credo** (PCIe retimer validation and compliance testing)
+- M.S. in Electrical and Electronics Engineering, **University of Michigan** (GPA 4.0/4.0)
+- Research and engineering background across embedded firmware, signal processing, robotics, and computer vision
 
-## Deploy to GitHub Pages
+## What I Work On
 
-1. Create a public repository named `kefanzhg.github.io`.
-2. Upload all files in this folder to the repository root.
-3. Go to **Settings → Pages** in GitHub.
-4. Set:
-   - **Source**: Deploy from a branch
-   - **Branch**: `main` / `(root)`
-5. Save and wait 1–2 minutes.
-6. Open: `https://kefanzhg.github.io`
+- PCIe validation workflows, lab automation, and root-cause debugging
+- Embedded systems (STM32, RTOS, Embedded Linux)
+- Robotics software (ROS/ROS2, kinematics, control)
+- Applied AI/CV (PyTorch, OpenCV, robustness evaluation)
 
-## Update content
+## Featured Projects
 
-- Edit text/content sections in `index.html`
-- Edit colors/layout in `styles.css`
+- **Autonomous Robotic Arm Development**
+   - Inverse kinematics + vision-assisted control workflows
+- **Automatic Mobile Robot Development**
+   - ROS-based integration, control loops, and system bring-up
+- **Optimal Planar Microphone Array Design**
+   - Signal processing and optimization for localization performance
+- **Mask R-CNN Robustness Evaluation**
+   - Stress testing computer vision models under extreme environments
+- **QKD Engineering Portfolio**
+   - Physics-based modeling from device/channel parameters to system KPIs
 
-## Local preview
+## Tech Stack
 
-From this folder, run:
+**Languages & Core Tools**
 
-```bash
-python3 -m http.server 8000
-```
+`Python` `C/C++` `C` `Embedded C` `MATLAB` `SQL` `Bash` `Git` `CMake`
 
-Then open:
+**Embedded & Systems**
 
-- http://localhost:8000
+`STM32` `RTOS` `Embedded Linux` `Microcontrollers` `PCB Design` `KiCAD` `Altium Designer` `Logic Analyzer`
 
-Stop the server with `Ctrl+C`.
+**AI, Robotics & Vision**
 
-## FAQ
+`ROS/ROS2` `SLAM` `OpenCV` `PyTorch` `CUDA` `GPGPU` `Computer Vision` `Machine Learning`
 
-### Should I put the personal webpage in `README.md`?
-
-No. GitHub Pages renders website files like `index.html`, not `README.md`.
-
-- `index.html` = your actual website page
-- `README.md` = repository documentation shown on the repo page
-
-### My site doesn’t update immediately. Why?
-
-GitHub Pages deployment can take a minute or two. Refresh after a short wait.
-
-## Source profile
+## Connect
 
 - LinkedIn: https://www.linkedin.com/in/kefan-zheng-8299891ba/
+- GitHub: https://github.com/kefanzhg
+- Email: kefanzhg@gmail.com
 
-## Pre-publish checklist
+## Personal Website
 
-- [ ] Email link works (`mailto:kefanzhg@gmail.com`)
-- [ ] LinkedIn and GitHub links open correctly
-- [ ] Work Experience dates/titles are accurate
-- [ ] Top 3 projects appear first in Project Experience
-- [ ] Tech Stack lines are visible for each project card
-- [ ] Mobile layout looks good (`< 640px` width)
-- [ ] No placeholder text remains in `index.html`
-- [ ] GitHub Pages is enabled on `main` / `(root)`
+- GitHub Pages: https://kefanzhg.github.io
