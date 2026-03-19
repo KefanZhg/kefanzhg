@@ -5,7 +5,7 @@ Application Engineer focused on PCIe validation, embedded systems, and robotics-
 ## About Me
 
 - Application Engineer at **Credo** (PCIe retimer validation and compliance testing)
-- M.S. in Electrical and Electronics Engineering, **University of Michigan** (GPA 4.0/4.0)
+- M.S. in Electrical and Electronics Engineering, **University of Michigan**
 - Research and engineering background across embedded firmware, signal processing, robotics, and computer vision
 
 ## What I Work On
