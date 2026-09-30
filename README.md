@@ -45,4 +45,3 @@ I work on post-silicon validation of high-speed SerDes and PCIe at Credo, and bu
 
 - LinkedIn: https://www.linkedin.com/in/kefanzhg
 - Email: kefanzhg@gmail.com
-- Website: https://kefanzhg.github.io
