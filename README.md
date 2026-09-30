@@ -1,53 +1,48 @@
 # Hi, I'm Kefan Zheng 👋
 
-Application Engineer focused on PCIe validation, embedded systems, and robotics-oriented AI development.
-
-## About Me
-
-- Application Engineer at **Credo** (PCIe retimer validation and compliance testing)
-- M.S. in Electrical and Electronics Engineering, **University of Michigan**
-- Research and engineering background across embedded firmware, signal processing, robotics, and computer vision
+I work on post-silicon validation of high-speed SerDes and PCIe at Credo, and build the automation that makes validation scale.
 
 ## What I Work On
 
-- PCIe validation workflows, lab automation, and root-cause debugging
-- Embedded systems (STM32, RTOS, Embedded Linux)
-- Robotics software (ROS/ROS2, kinematics, control)
-- Applied AI/CV (PyTorch, OpenCV, robustness evaluation)
+- **Post-silicon validation**: PCIe Gen6 retimer bring-up, PHY-level SerDes validation, LTSSM/link training debug, PCI-SIG compliance testing
+- **Validation automation**: Python test automation, regression infrastructure, AI-aided SerDes/CDR parameter tuning
+- **Embedded systems**: STM32, RTOS, Embedded Linux, PCB design
+- **Robotics & applied AI**: ROS/ROS2, kinematics and control, PyTorch, OpenCV
+
+## Background
+
+- Senior Application Engineer at **Credo**
+- M.S. in Electrical and Electronics Engineering, **University of Michigan**
+- B.E. in Electrical, Electronics and Communications Engineering, **University of Glasgow & UESTC**
 
 ## Featured Projects
 
-- **Autonomous Robotic Arm Development**
-   - Inverse kinematics + vision-assisted control workflows
-- **Automatic Mobile Robot Development**
-   - ROS-based integration, control loops, and system bring-up
-- **Optimal Planar Microphone Array Design**
-   - Signal processing and optimization for localization performance
-- **Mask R-CNN Robustness Evaluation**
-   - Stress testing computer vision models under extreme environments
-- **QKD Engineering Portfolio**
-   - Physics-based modeling from device/channel parameters to system KPIs
+- **Optimal Planar Microphone Array Design**: Array modeling, CIC filtering on DSP cores (60+ dB sidelobe attenuation), and an optimization method improving directivity by ~10%
+- **QKD Engineering Portfolio**: Physics-based modeling from device/channel parameters to system KPIs
+- **Autonomous Robotic Arm Development**: Inverse kinematics and vision-guided control achieving sub-5 mm positioning accuracy; 1st place among 10 teams
+- **Automatic Mobile Robot Development**: ROS-based integration, control loops, and system bring-up
+- **Mask R-CNN Robustness Evaluation**: Stress testing computer vision models under extreme environments (IEEE, 2022)
 
 ## Tech Stack
 
-**Languages & Core Tools**
+**Languages & Tools**
 
-`Python` `C/C++` `C` `Embedded C` `MATLAB` `SQL` `Bash` `Git` `CMake`
+`Python` `C` `C++` `MATLAB` `Bash` `SQL` `Git` `CMake`
 
-**Embedded & Systems**
+**Validation & Lab**
 
-`STM32` `RTOS` `Embedded Linux` `Microcontrollers` `PCB Design` `KiCAD` `Altium Designer` `Logic Analyzer`
+`PCIe` `SerDes` `BERT` `Real-Time Oscilloscope` `Protocol Analyzer` `VNA` `Logic Analyzer`
 
-**AI, Robotics & Vision**
+**Embedded & Hardware**
 
-`ROS/ROS2` `SLAM` `OpenCV` `PyTorch` `CUDA` `GPGPU` `Computer Vision` `Machine Learning`
+`STM32` `RTOS` `Embedded Linux` `PCB Design` `KiCad` `Altium Designer`
+
+**Robotics & AI**
+
+`ROS/ROS2` `SLAM` `OpenCV` `PyTorch` `CUDA` `Machine Learning`
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/kefan-zheng-8299891ba/
-- GitHub: https://github.com/kefanzhg
+- LinkedIn: https://www.linkedin.com/in/kefanzhg
 - Email: kefanzhg@gmail.com
-
-## Personal Website
-
-- GitHub Pages: https://kefanzhg.github.io
+- Website: https://kefanzhg.github.io
